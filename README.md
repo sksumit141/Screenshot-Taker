@@ -2,7 +2,7 @@
 
 A web application built with Node.js, Express, HTML, CSS, and Puppeteer that allows users to take screenshots of web pages by entering a URL. The application captures the screenshot and provides it for download.
 
-![Screenshot Taker Interface]()
+![Screenshot Taker Interface](screenshot.png)
 
 ## 🚀 Features
 
